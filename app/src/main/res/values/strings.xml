@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PitProject</string>
+    <string name="add_point_btn_title">Add a point</string>
+</resources>
